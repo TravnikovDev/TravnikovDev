@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TravnikovDev
+- 👋 Hi, I’m @Travnikov.Dev
 - 👀 I’m interested in frontend, ReactJS and generative art
 - 🌱 I’m currently learning how to survive
 - 💞️ I’m looking to collaborate on work
