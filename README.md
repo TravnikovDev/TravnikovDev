@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roman - @TravnikovDev
 
-I'm a frontend developer at [SuperDispatch](https://superdispatch.com), with a deep passion for ReactJS, generative art, and crafting high-quality, interactive web experiences.
+I'm a frontend developer and entrepreneur, with a deep passion for ReactJS, generative art, and crafting high-quality, interactive web experiences.
 
 [![LinkedIn](https://img.shields.io/badge/-RomanTravnikov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-travnikov/)](https://www.linkedin.com/in/roman-travnikov/)
 [![Instagram](https://img.shields.io/badge/-travnikov.dev-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/travnikov.dev/)](https://www.instagram.com/travnikov.dev/)
