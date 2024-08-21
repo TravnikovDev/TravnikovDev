@@ -10,10 +10,10 @@ I'm a frontend developer and entrepreneur, with a deep passion for ReactJS, gene
 
 ### 🛠️ My Tech Stack
 
-- **Frontend**: JavaScript (ES6/ES7), React.js, Next.js, TypeScript
-- **Styling**: SCSS, CSS Modules, Ant Design UI, Material UI, Semantic UI
-- **State Management**: Redux, Redux Toolkit, Redux Saga
-- **Testing Tools**: Jest, Cypress, Playwright
+- **Frontend**: TypeScript, React.js, Next.js
+- **Styling**: SCSS, CSS Modules, bunch of UI libraries
+- **State Management**: Redux Toolkit, Redux Saga
+- **Testing Tools**: Playwright, Jest
 - **Other Technologies**: GIS, SIP/VoIP, WebSockets, IBM WebSphere
 
 ---
